@@ -4,7 +4,7 @@ plugins {
     // The Flutter Gradle Plugin must be applied after the Android and Kotlin Gradle plugins.
     id("dev.flutter.flutter-gradle-plugin")
 }
-apply(plugin = "com.google.gms.google-services")
+apply(plugin = "com.google.gms.google-services")//we added this
 
 
 android {
