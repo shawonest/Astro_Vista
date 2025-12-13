@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "343516899698",
+    "project_id": "aestrovista",
+    "storage_bucket": "aestrovista.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:343516899698:android:23f65e6829f30b055e55eb",
+        "android_client_info": {
+          "package_name": "com.example.aestro_vista"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB21XxEXoEU59K3_fkyGskEwF8hN2S358U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
