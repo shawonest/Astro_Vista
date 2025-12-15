@@ -2,7 +2,7 @@ import 'package:hive_flutter/hive_flutter.dart';
 import '../../models/astronomy_picture_model.dart';
 
 abstract class ApodLocalDataSource {
-  Future<AstronomyPictureModel?> getLastApod();
+  Future<AstronomyPictureModel?> getLastApod(); //offline support
   Future<void> cacheApod(AstronomyPictureModel apod);
 }
 

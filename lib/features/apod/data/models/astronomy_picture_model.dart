@@ -4,7 +4,7 @@ import '../../domain/entities/astronomy_picture.dart';
 part 'astronomy_picture_model.g.dart';
 
 @HiveType(typeId: 0)
-class AstronomyPictureModel extends AstronomyPicture {
+class AstronomyPictureModel extends AstronomyPicture {  //data l to domain l
   
   @HiveField(0)
   final String? copyright;
